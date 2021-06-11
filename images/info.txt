@@ -1,0 +1,11 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Slot-Regular
+font link: https://www.behance.net/gallery/23688211/Slot-Free-Font
+font author: Adrien Coquet
+font author site: http://adrien-coquet.com/
+
+
+{"bg":"transparent","icon-gradient-0":"#32142D","icon-gradient-1":"#32142D","font":"#000000","slogan":"#141414"}
+      
